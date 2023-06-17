@@ -1,0 +1,19 @@
+
+.car img {
+  width: 20%;
+  height: 400px;
+  position: relative
+  ;
+}
+
+@keyframes move {
+  0% {
+    left: 0;
+  }
+  50% {
+    
+  }
+  100% {
+    
+  }
+}
